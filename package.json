@@ -25,7 +25,8 @@
       [
         "@semantic-release/npm",
         {
-          "publish": false
+          "publish": false,
+          "npmPublish": false
         }
       ],
       [
