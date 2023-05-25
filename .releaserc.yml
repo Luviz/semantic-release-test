@@ -14,7 +14,7 @@ plugins:
       - docs/**/*
       - package-lock.json
       - package.json
-      message: |-
+      message: |
         chore(release): ${nextRelease.version} [skip ci]
         
         ${nextRelease.notes}
